@@ -1,6 +1,6 @@
 # MS_centric_projects
 
-These are screenshots and xlsm files fore some of my projects for the Central Bank of the Russian Federation (Bank of Russia). There is no any data to them. That's why I use screenshots.
+These are screenshots and xlsm files for some of my projects for the Central Bank of the Russian Federation (Bank of Russia). There is no any data to them. That's why I use screenshots.
 
 ## regular_large_tasks_vs_emloyees_vacations
 ![](screenshots/regular_large_tasks_vs_emloyees_vacations.png)
