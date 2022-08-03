@@ -16,6 +16,6 @@ Supervisors in the capital accept materials for the events also through SharePoi
 ![](screenshots/Word-style_compare_in_Excel_cell.png)
 
 ## Absent data
-The algorithm parsers accounting formulas like above, search for the data in CSVs provided by banks, and aggregates it. This particular sheet shows which pieces of data have not been provided by banks (in red).
+The algorithm parsers accounting formulas like above, searches for the data in CSVs provided by banks, and aggregates it. This particular sheet shows which pieces of data have not been provided by banks (in red).
 ![](screenshots/absent_data.png)
 
