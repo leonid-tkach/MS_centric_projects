@@ -19,3 +19,14 @@ Supervisors in the capital accept materials for the events also through SharePoi
 The algorithm parsers accounting formulas like above, searches for the data in CSVs provided by banks, and aggregates it. This particular sheet shows which pieces of data have not been provided by banks (in red).
 ![](screenshots/absent_data.png)
 
+## Coverage & Clarity Access DB (SQL/VBA)
+
+The database of communications related to monetary policy stance.
+
+DB interface:
+
+![](screenshots/Coverage_and_Clarity_DB.png)
+
+Audience diagram (by quarter, data exported from DB):
+
+![](screenshots/Coverage_and_Clarity_Audiences_by_Quater.png)
