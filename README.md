@@ -1,6 +1,6 @@
 # MS_centric_projects
 
-These are screenshots and xlsm/accdb files for some of my projects for the Central Bank of the Russian Federation (Bank of Russia). I cannot share data to most of them, therefor I use screenshots.
+These are screenshots and xlsm/accdb files for some of my projects for the Central Bank of the Russian Federation (Bank of Russia). I cannot share data to most of them, therefore I use screenshots.
 
 ## Regular Large Tasks vs Emloyees Vacations (SharePoint/Excel/VBA)
 
