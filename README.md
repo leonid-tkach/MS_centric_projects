@@ -1,6 +1,6 @@
 # MS_centric_projects
 
-These are screenshots and xlsm files for some of my projects for the Central Bank of the Russian Federation (Bank of Russia). There is no any data to them. That's why I use screenshots.
+These are screenshots and xlsm/accdb files for some of my projects for the Central Bank of the Russian Federation (Bank of Russia). I cannot share data to most of them, therefor I use screenshots.
 
 ## Regular Large Tasks vs Emloyees Vacations (SharePoint/Excel/VBA)
 
@@ -18,14 +18,14 @@ Supervisors at the HQ approve data via SharePoint forms. Their progress is on th
 
 ![](screenshots/supervisors_vs_supervised_events.png)
 
-## Word-style compare in Excel cell
+## Word-style compare in Excel cell (Excel/VBA)
 ![](screenshots/Word-style_compare_in_Excel_cell.png)
 
 ## Absent data
 The algorithm parsers accounting formulas from the above screenshot, searches relevant data in CSVs provided by banks, and aggregates it. The below screenshot shows what data is yet to be provided or irrelevant (in red).
 ![](screenshots/absent_data.png)
 
-## Coverage & Clarity Access DB (SQL/VBA)
+## Coverage & Clarity Access DB (Access/SQL/VBA)
 
 The database of communications related to monetary policy stance.
 
