@@ -6,7 +6,7 @@ These are screenshots and xlsm files for some of my projects for the Central Ban
 
 Staff can track the number of colleagues on leave at a given date and assignments left to complete.
 
-It helps staff to schedule and coordinate their leave time in an efficient manner and without management involvement.
+It helps staff to schedule and coordinate their leave time in an efficient manner and without involvement of supervisors.
 
 ![](screenshots/regular_large_tasks_vs_emloyees_vacations.png)
 
